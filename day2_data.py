@@ -15,4 +15,4 @@ llm_payload = {
 print("当前调用模型是：", llm_payload["model"])
 llm_payload["temperature"] = 0.1
 print("修改后的模型温度变成了：" , llm_payload["temperature"])
-print("是否开启打字机效果：" , llm_payload["stream"])
+print("是否开启打字机效果：" , llm_payload["stream"])#测试git
