@@ -21,4 +21,4 @@ response = client.chat.completions.create(
 
 ai_answer = response.choices[0].message.content
 print("\n AI专家回答:")
-print(ai_answer)
+print(ai_answer)#测试git
