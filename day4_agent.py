@@ -33,4 +33,4 @@ ai_result = response.choices[0].message.content
 print("\n"+"="*30)
 print("诊断意见:")
 print(ai_result)
-print("="*30)
+print("="*30)#git测试
